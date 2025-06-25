@@ -11,7 +11,7 @@ Ce script Bash permet de :
 
 # Prérequis
 
-- **jq** (pour parser JSON)  
+jq (sudo apt install jq)  
 
 ---
 
