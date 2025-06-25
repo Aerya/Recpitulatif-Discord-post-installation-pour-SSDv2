@@ -9,8 +9,8 @@ Ce script Bash permet de :
 
 
 <p align="center">
-  <img src="https://github.com/Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2/blob/7bd1091f0e2efa73f3ab9e64c844627e991abbb5/Screenshots/1.png" alt="Capture 1" width="600"/>
-  <img src="https://github.com/Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2/blob/7bd1091f0e2efa73f3ab9e64c844627e991abbb5/Screenshots/2.png" alt="Capture 2" width="600"/>
+  <img src="https://github.com/Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2/blob/7bd1091f0e2efa73f3ab9e64c844627e991abbb5/Screenshots/1.png" alt="Capture 1" width="700"/>
+  <img src="https://github.com/Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2/blob/7bd1091f0e2efa73f3ab9e64c844627e991abbb5/Screenshots/2.png" alt="Capture 2" width="400"/>
 </p>
 
 
