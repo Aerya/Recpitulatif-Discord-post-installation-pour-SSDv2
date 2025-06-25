@@ -7,6 +7,10 @@ Ce script Bash permet de :
 3. Générer pour chaque container un bloc détaillé (nom, URL Traefik, image, lien de recherche Startpage)  
 4. Éviter les embeds indésirables, gérer le rate-limit, chunker les messages trop longs
 
+![](https://github.com/Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2/blob/7bd1091f0e2efa73f3ab9e64c844627e991abbb5/Screenshots/1.png)
+![](https://github.com/Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2/blob/7bd1091f0e2efa73f3ab9e64c844627e991abbb5/Screenshots/2.png)
+
+
 ---
 
 # Prérequis
