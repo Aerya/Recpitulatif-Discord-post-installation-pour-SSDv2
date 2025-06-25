@@ -1,0 +1,16 @@
+# /etc/systemd/system/ssdv2-watch.service
+[Unit]
+Description=Ecoute en continue les évènements Docker en lien avec Traefik
+After=docker.service
+Requires=docker.service
+
+[Service]
+Type=simple
+User=​%i
+Environment=HOME=/home/%i
+ExecStart=/home/%i/seedbox/Watch-Traefik.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
